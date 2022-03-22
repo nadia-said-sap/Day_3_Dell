@@ -1,0 +1,10 @@
+COLUMN TABLE SALARY(
+"id" integer, 
+"first_name" NVARCHAR(100),
+"last_name" NVARCHAR(100),
+"gender" NVARCHAR(100),
+"City" NVARCHAR(100) ,
+"JobTitle" NVARCHAR(100) ,
+"Salary" NVARCHAR(100) ,
+"Latitude" NVARCHAR(100) ,
+"Longitude" NVARCHAR(100))
